@@ -1,0 +1,8 @@
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
+brew "cocoapods"
+brew "git-lfs"
+cask "adobe-creative-cloud"
+cask "background-music"
+cask "sublime-text"
